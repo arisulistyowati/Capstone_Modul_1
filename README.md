@@ -5,16 +5,16 @@ Program ini berisikan 3 menu utama yaitu:
 **1. Stock Barang Masuk**
 Pada menu ini bertujuan untuk menambahkan data barang baru. Didalamnya terdapat beberapa pilihan diantaranya,
 *Tampilan Daftar Barang*
-Untuk menampilkan keseluruhan data inventaris yang dimiliki
+Untuk menampilkan keseluruhan data inventaris yang dimiliki,
 *Tambah Daftar Barang*
-Untuk menambah data barang baru
+Untuk menambah data barang baru,
 *Update Daftar Barang*
 Untuk melakukan updating data seperti pembaharuan data stock masuk barang dan pembaharuan data kolom bila terdapat typo
 
 **2. Stock Barang Keluar**
 Pada menu ini bertujuan untuk merekap data barang keluar dari inventaris. Didalamnya juga terdapat beberapa pilihan menu diantaranya,
 *Tampilan Daftar Barang*
-Untuk menampilkan kembali data barang ter up to date
+Untuk menampilkan kembali data barang ter up to date,
 *Input Daftar Keluar Barang*
 Untuk menginputkan data keluar barang berdasarkan index dari kode barang
 
